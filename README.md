@@ -7,6 +7,7 @@ Got to http://sourabhbajaj.com/mac-setup/ and follow instructions to install XCo
 
 ```sh
 brew cask install \
+    atom \
     alfred \
     appcleaner \
     caffeine \
