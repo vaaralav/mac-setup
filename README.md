@@ -41,16 +41,33 @@ brew cask install \
 
 ## Python
 
-Use `brew install python python3` along with 
+Use `brew install python2 python3` along with 
 
 ```sh
 pip2 install --upgrade pip setuptools
 pip3 install --upgrade pip setuptools wheel
 ```
 
+Add Brew's `python2` to `PATH` to use it as `python`. Just follow instructions after `brew install`.
+
 ## Node.js
 Install `nvm` as instructed. Install `yarn`:
 ```sh
 brew install yarn --without-node
 ```
+
+## Elm
+```sh
+brew cask install elm-platform
+```
+
+## Local databases
+```sh
+brew install mysql sqlite3 mongodb postgresql
+```
+
+Remember to add Brew's `sqlite3` to `PATH`.
+
+Use `brew services run|start|stop|restart <formulae>|--all` to start/stop/restart database services.
+
 
