@@ -29,13 +29,12 @@ brew cask install \
     sourcetree \
     virtualbox \
     the-unarchiver \
+    lisanet-gimp \
     
 
 ```
 
 ### [Brave browser](https://brave.com/download/)
-
-### [Gimp on Mac](http://gimp.lisanet.de/Website/Download.html)
 
 ### [`pdftk`](https://www.pdflabs.com/tools/pdftk-server/)
 
