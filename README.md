@@ -49,7 +49,9 @@ pip3 install --upgrade pip setuptools wheel
 Add Brew's `python2` to `PATH` to use it as `python`. Just follow instructions after `brew install`.
 
 ## Node.js
-Install `nvm` as instructed. Install `yarn`:
+Install `nvm` with these instructions to get the latest version: https://github.com/creationix/nvm#installation
+
+Install `yarn`:
 ```sh
 brew install yarn --without-node
 ```
