@@ -9,27 +9,26 @@ Got to http://sourabhbajaj.com/mac-setup/ and follow instructions to install XCo
 
 ```sh
 brew cask install \
+    1password \
     atom \
-    alfred \
-    appcleaner \
+    brave \
     caffeine \
     cheatsheet \
     docker \
     dropbox \
+    elm-platform \
     flux \
     google-chrome \
     handbrake \
-    1password \
-    spectacle \
-    sublime-text \
-    totalfinder \
-    vlc \
-    spotify \
+    lisanet-gimp \
     sequel-pro \
     sourcetree \
-    virtualbox \
+    spectacle \
+    spotify \
+    sublime-text \
     the-unarchiver \
-    lisanet-gimp \
+    virtualbox \
+    vlc \
     
 
 ```
